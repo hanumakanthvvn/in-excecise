@@ -1,0 +1,15 @@
+[
+{
+"id": 1,
+"awesome_attribute": "awesome attribute value",
+"dynamic_attribute": "is lucky to be here"
+},
+{
+"id": 2,
+"awesome_attribute": "stellar attribute value",
+"tubular_attribute": {
+"has_tubes": "Totally",
+"which_tubes": [3,5,7,4]
+}
+}
+]
